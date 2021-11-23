@@ -7,13 +7,13 @@ This application is useful for finding your github account. You can search for t
 Clone the project
 
 ```bash
-  git clone https://github.com/rohitCSR/github-finder.git
+  git clone https://github.com/rohitCSR/vintage-hub.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd github-finder
+  cd vintage-hub
 ```
 
 Install dependencies
